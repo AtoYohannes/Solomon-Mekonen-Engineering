@@ -464,7 +464,7 @@ h4.about-left-agile span {
 }
 
 a.sb {
-    display: block;
+    height: 500px;
 }
 
 .hover14 figure {
@@ -797,7 +797,7 @@ a.w3_agile_google:hover {
 /*-- home --*/
 
 .img1 {
-    background: url(../images/bg1.jpg) center no-repeat;
+    background: url(../images/6.jpeg) center no-repeat;
     padding: 0;
     background-size: cover;
     position: relative;
@@ -822,18 +822,18 @@ a.w3_agile_google:hover {
 }
 
 .img2 {
-    background: url(../images/bg4.jpg) center no-repeat;
+    background: url(../images/28.jpeg) center no-repeat;
     background-size: cover;
 }
 
 .img3 {
-    background: url(../images/bg2.jpg) center no-repeat;
+    background: url(../images/33.jpeg) center no-repeat;
     padding: 0;
     background-size: cover;
 }
 
 .img4 {
-    background: url(../images/b1.jpg) center no-repeat;
+    background: url(../images/7.jpeg) center no-repeat;
     padding: 0;
     background-size: cover;
 }
@@ -910,7 +910,7 @@ button.seri-w3ls:hover {
 /* about bottom */
 
 .about-bottom-wthree {
-    background: #3f51b5;
+    background: #ff5252;
 }
 
 .bottom-w3ls1 {
@@ -982,7 +982,7 @@ button.seri-w3ls:hover {
 }
 
 .contact {
-    background: url(../images/bg2.jpg) no-repeat center;
+    background: url(../images/29.jpeg) no-repeat center;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
